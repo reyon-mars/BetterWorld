@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef70e7f8ea0cc07e41ba5901de76c600cd21cd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d6ff0a45b652417e1a5a9c5628363f0727e9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
