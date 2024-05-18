@@ -518,3 +518,4 @@
 /Users/reyon/VScode/C#/DotNet/BetterWorld/obj/Debug/net8.0/BetterWorld.pdb
 /Users/reyon/VScode/C#/DotNet/BetterWorld/obj/Debug/net8.0/BetterWorld.genruntimeconfig.cache
 /Users/reyon/VScode/C#/DotNet/BetterWorld/obj/Debug/net8.0/ref/BetterWorld.dll
+/Users/reyon/VScode/C#/DotNet/BetterWorld/obj/Debug/net8.0/BetterWorld.sourcelink.json
