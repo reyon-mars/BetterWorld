@@ -30,9 +30,6 @@ namespace BetterWorld
         public DbSet<BetterWorld.Models.UserProfileModel> UserProfileModel { get; set; } = default!;
         public DbSet<BetterWorld.Models.UserViewModel> UserViewModel { get; set; } = default!;
         public DbSet<BetterWorld.Models.review> review { get; set; } = default!;
-        //public DbSet<JobPortal.Models.UserViewModel> UserViewModel { get; set; } = default!;
-        //public DbSet<JobPortal.Models.JobViewModel> JobViewModel { get; set; } = default!;
-        //public DbSet<JobPortal.Models.ApplicationViewModel> ApplicationViewModel { get; set; } = default!;
     }
 
     public class Job
